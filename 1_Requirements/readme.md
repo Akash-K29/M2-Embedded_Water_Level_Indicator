@@ -13,13 +13,11 @@ The sensor has a pair of electrodes, and applies alternating current to them. Wh
 3) Seven Segment Display:
 A seven-segment display is a form of electronic display device for displaying decimal numerals that is an alternative to the more complex dot matrix displays.
 
-4) Embedded C Programming.
-
 ## Low Level Requirements:
 
 1) Availability of water in the tank.
-
 2) Unintrupted power supply.
+3) Embedded C Programming.
 
 ## FEATURES:
 1) Easy Installation.

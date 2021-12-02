@@ -35,4 +35,20 @@ Opportunities: Automatic Water level Controller can be used in Hotels, Factories
 
 Threats: Chances of sensor getting corroded when it is subjected in the salt water.
 
+## 4W & 1H
+WHEN:
+It can be used for the water level measurement in the water tanks using the conductive sensor which can kept under the water.
+
+WHO:
+Every person who want to calculate the water level measurement by automation by using the conductive sensor can use this.
+
+WHAT:
+For calculating water level measurements in water tanks by using conductive sensor by which we can know the measurement of the water in the water tanks.
+
+WHERE:
+It can be used in water tanks, water in lakes, swaps, and rivers.
+
+HOW:
+By using the conductive sensor we can use to measure water level in water tanks.
+
 

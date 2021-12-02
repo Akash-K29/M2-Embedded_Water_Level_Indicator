@@ -49,6 +49,6 @@ WHERE:
 It can be used in water tanks, water in lakes, swaps, and rivers.
 
 HOW:
- By using the conductive sensor we can use to measure water level in water tanks.
+By using the conductive sensor we can use to measure water level in water tanks.
 
 

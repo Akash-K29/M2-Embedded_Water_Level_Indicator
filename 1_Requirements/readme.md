@@ -15,15 +15,15 @@ A seven-segment display is a form of electronic display device for displaying de
 
 ## Low Level Requirements
 
-1) Availability of water in the tank.
-2) Unintrupted power supply.
-3) Embedded C Programming.
+1)  Availability of water in the tank.
+2)  Unintrupted power supply.
+3)  Embedded C Programming.
 
 ## FEATURES
-1) Easy Installation.
-2) Low Maintenance.
-3) Compact and elegant Design.
-4) Consume very little energy, ideal for continuous operation.
+1)  Easy Installation.
+2)  Low Maintenance.
+3)  Compact and elegant Design.
+4)  Consume very little energy, ideal for continuous operation.
 
 ## SWOT Analysis
 
@@ -49,6 +49,6 @@ WHERE:
 It can be used in water tanks, water in lakes, swaps, and rivers.
 
 HOW:
-By using the conductive sensor we can use to measure water level in water tanks.
+ By using the conductive sensor we can use to measure water level in water tanks.
 
 

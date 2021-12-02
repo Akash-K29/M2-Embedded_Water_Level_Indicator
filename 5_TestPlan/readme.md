@@ -6,7 +6,7 @@
 
 
 
-#### Low Level Test Cases:
+### Low Level Test Cases:
 | TEST ID|	DESCRIPTION|	EXPECTED OUTPUT|	ACTUAL OUTPUT|	END RESULT |
 |------|------|------|------|------|
 | LLT_1 |turning off the motor when the water level reaches its maximum level | SUCCESS | SUCCESS | PASS 

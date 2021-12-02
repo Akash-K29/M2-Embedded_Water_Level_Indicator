@@ -18,6 +18,7 @@ A seven-segment display is a form of electronic display device for displaying de
 1)  Availability of water in the tank.
 2)  Unintrupted power supply.
 3)  Embedded C Programming.
+4)  SimulIDE.
 
 ## FEATURES
 1)  Easy Installation.
